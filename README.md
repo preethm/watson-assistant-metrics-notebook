@@ -1,5 +1,9 @@
 # watson-assistant-metrics-notebook
-This Jupyter notebook was developed for analyzing the data exhaust for Watson Assistant (and Voice Interaction) solutions. It will retrieve and format logs, extract key metrics, and export the data to CSV for use in Watson Studio's Cognos Dashboard. **Note** that this is not a supported product.
+This Jupyter notebook was developed for analyzing the data exhaust for Watson Assistant (and Voice Interaction) solutions. It will retrieve and format logs, extract key metrics, and export the data to CSV for use in Watson Studio's Cognos Dashboard.
+
+KPIs include coverage, containment, escalation, and other key metrics vital to reporting on the performance of a Watson Assistant solution. 
+
+**Note** that this is not a supported product.
 
 ## Prerequisites
 1. Watson Assistant credentials
