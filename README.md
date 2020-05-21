@@ -10,13 +10,13 @@ KPIs include coverage, containment, escalation, and other key metrics vital to r
 2. Watson Studio instance and project
 
 ## Instructions
-1. Download the notebook `Watson Assistant Metrics Notebook.ipynb` locally.
-2. Log into Watson Studio (https://dataplatform.cloud.ibm.com/) and open up (or create) the customer's project.
-3. Click `Add to project +`
-4. Click `Notebook`
-5. Click `From file`
+1. Log into Watson Studio (https://dataplatform.cloud.ibm.com/) and open up (or create) the customer's project.
+2. Click `Add to project +`
+3. Click `Notebook`
+4. Click `From URL`
+5. Under `Notebook URL`, enter in `https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/Watson%20Assistant%20Metrics%20Notebook.ipynb`
 6. Enter a name for the notebook, e.g. `Watson Assistant Metrics Notebook (Client_Name)`
-7. Drag and drop downloaded file. 
+7. Add optional description, e.g. `This notebook will extract logs and identify metrics for use in a Cognos dashboard.`
 8. Select runtime (default Python 3.6 XS is OK)
 9. Click `create`
 10. The first cell (in the Housekeeping section) requires project id and token in order to save the CSV files to data assets. Follow these instructions: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/token.html
