@@ -1,5 +1,5 @@
 # Summary
-This Jupyter notebook was developed for analyzing the data exhaust for Watson Assistant (and Voice Interaction) solutions. It will retrieve and format conversational logs, extract key metrics, and export the data for use in Watson Studio's Cognos Dashboard.
+This Jupyter notebook was developed for analyzing the conversation logs for Watson Assistant (and Voice Interaction) solutions. It will retrieve the data from the the logs API, transform the data, and extract key metrics for use in Watson Studio's Cognos Dashboard. Further data exploration and analysis can be performed, and ad-hoc reports can be built.
 
 KPIs include coverage, containment, escalation, and other key metrics vital to reporting on the performance of a Watson Assistant solution. 
 
