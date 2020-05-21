@@ -10,7 +10,7 @@ KPIs include coverage, containment, escalation, and other key metrics vital to r
 2. Watson Studio instance and project
 
 ## Instructions
-1. Log into Watson Studio (https://dataplatform.cloud.ibm.com/) and open up (or create) the customer's project.
+1. Log into Watson Studio (https://dataplatform.cloud.ibm.com/) and create a new project, e.g. `[Customer_Name] Watson Project`.
 2. Click `Add to project +`
 3. Click `Notebook`
 4. Click `From URL`
