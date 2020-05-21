@@ -13,7 +13,7 @@ KPIs include coverage, containment, escalation, and other key metrics vital to r
 3. Click `Notebook`
 4. Click `From URL`
 5. Under `Notebook URL`, enter in `https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/Watson%20Assistant%20Metrics%20Notebook.ipynb`
-6. Enter a name for the notebook, e.g. `Watson Assistant Metrics Notebook (Client_Name)`
+6. Enter a name for the notebook, e.g. `Watson Assistant Metrics Notebook [Client_Name]`
 7. Add optional description, e.g. `This notebook will extract logs and identify metrics for use in a Cognos dashboard.`
 8. Select runtime (default Python 3.6 XS is OK)
 9. Click `create`
