@@ -7,7 +7,7 @@ KPIs include coverage, containment, escalation, and other key metrics vital to r
 
 ## Prerequisites
 1. Watson Assistant credentials
-2. Watson Studio instance and project
+2. Watson Studio instance
 
 ## Instructions
 1. Log into Watson Studio (https://dataplatform.cloud.ibm.com/) and create a new project, e.g. `[Customer_Name] Watson Project`.
