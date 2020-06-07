@@ -1,31 +1,31 @@
 Create Table WA_FULL_LOGS(	
-conversation_id 	Varchar(128)
-month			Integer
-day			Integer
-year			Integer
-input_text 		Varchar(3072)
-output_text 		Varchar(3072)
-intent 			Varchar(1024)
-intent_confidence 	Decimal
-entities 		Varchar(3072)
-coverage 		Varchar(128)
-dialog_turn_counter 	Decimal
-user_id 		Varchar(128)
-branch_exited_reason 	Varchar(256)
-nodes_visited 		Varchar(1024)
-prev_nodes_visited 	Varchar(1024)
-request_timestamp 	Timestamp
-response_timestamp 	Timestamp
-language		Varchar(1024)
-caller_id		Varchar(128)
-vgw_session_id		Varchar(128)
-sms_number		Varchar(128)
+conversation_id 	Varchar(128),
+month			Integer,
+day			Integer,
+year			Integer,
+input_text 		Varchar(3072),
+output_text 		Varchar(3072),
+intent 			Varchar(1024),
+intent_confidence 	Decimal,
+entities 		Varchar(3072),
+coverage 		Varchar(128),
+dialog_turn_counter 	Decimal,
+user_id 		Varchar(128),
+branch_exited_reason 	Varchar(256),
+nodes_visited 		Varchar(1024),
+prev_nodes_visited 	Varchar(1024),
+request_timestamp 	Timestamp,
+response_timestamp 	Timestamp,
+language		Varchar(1024),
+caller_id		Varchar(128),
+vgw_session_id		Varchar(128),
+sms_number		Varchar(128),
 call_transfer		Varchar(128)
 );	
 
 CREATE TABLE WA_LAST_RUN_LOG(
-conversation_id 	Varchar(128)
-request_timestamp 	Timestamp
-response_timestamp 	Timestamp
+conversation_id 	Varchar(128),
+request_timestamp 	Timestamp,
+response_timestamp 	Timestamp,
 lastrun_timestamp   	Timestamp
 );
