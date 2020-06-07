@@ -22,6 +22,9 @@ KPIs include coverage, containment, escalation, and other key metrics vital to r
 12. Upon completion of notebook, CSV files will be saved to your project's data assets. It is highly recommended to build a Cognos dashboard in Watson Studio in order to share metrics and insights with your account/client stakeholders. To build visualizations, a tutorial can be found: https://developer.ibm.com/tutorials/create-interactive-dashboards-on-watson-studio/
 
 ## Example dashboards
+
+<img src="https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/cognos-covid-dash.png" align="left" height="40%" width="40%" >
+
 ![Dashboard](cognos-covid-dash.png)
 
 ![Dashboard](cognos-covid-dash2.png)
