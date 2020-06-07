@@ -1,4 +1,4 @@
-Create Table WA_FULL_LOGS(	
+Create Table WATSON.WA_FULL_LOGS(	
 conversation_id 	Varchar(128),
 month			Integer,
 day			Integer,
@@ -23,7 +23,7 @@ sms_number		Varchar(128),
 call_transfer		Varchar(128)
 );	
 
-CREATE TABLE WA_LAST_RUN_LOG(
+CREATE TABLE WATSON.WA_LAST_RUN_LOG(
 conversation_id 	Varchar(128),
 request_timestamp 	Timestamp,
 response_timestamp 	Timestamp,
