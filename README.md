@@ -23,8 +23,8 @@ KPIs include coverage, containment, escalation, and other key metrics vital to r
 
 ## Example Dashboards
 
-<img src="https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/cognos-covid-dash.png" align="left" height="75%" width="75%" >
+<img src="https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/cognos-covid-dash.png" height="75%" width="75%" >
 
-<img src="https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/cognos-covid-dash2.png" align="left" height="75%" width="75%" >
+<img src="https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/cognos-covid-dash2.png" height="75%" width="75%" >
 
 Happy Analyzing!
