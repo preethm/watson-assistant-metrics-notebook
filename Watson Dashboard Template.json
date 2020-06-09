@@ -209,19 +209,10 @@
             {
                 "id": "model0000017258d9dfa0_00000002",
                 "assetId": "assetId0000017258d9dfa0_00000000",
-                "clientId": "3ad7de1e-ee1c-4a44-8b2a-b6d57c65e988:671491d7-731c-4b2f-aaf3-bd80ce3c846d:/WATSON/WA_FULL_LOGS:table:WA_FULL_LOGS",
+                "clientId": "",
                 "module": {
                     "xsd": "https://ibm.com/daas/module/1.0/module.xsd",
-                    "source": {
-                        "id": "3ad7de1e-ee1c-4a44-8b2a-b6d57c65e988:671491d7-731c-4b2f-aaf3-bd80ce3c846d:/WATSON/WA_FULL_LOGS:table:WA_FULL_LOGS",
-                        "user": "{enc}GAYmK+fF0gx5B3ieN/ZyGQEQma+xYCF9JP4RnamPwLrwjR3yxWloy8lpfl1hJ/S0nP9JwnhMhZyaCoRZDAr7fgaCYiyhNDpIToQBVLxT6C0GZVtqVwDEeffPYETYBHtpuGHXT6fD7ZEYbU/L00kryXDWhtnpBZzr8dkSNxWVXusexkx2ou4JvDWJqANbw7JdxlcTcJSA+sFM7GhRg6L2BxF/Zf1IqlV54rQut0mhWIvCMdfeCfnjkK5d8M4LEnpaR561xW6jT/xpg6e1QjIiaW2/LizYNvtaQT9rrZBiVRfulGvqEWRTeeJS/O9ubOePAFWpJ4eM8TEwykwnk+rFVQ==",
-                        "password": "{enc}GZBB4SE4yHXJEC8oxTw2fx9cuyfBItpRjpK3B7dsXra88ifU5BkhSddkEwmzVKGBakCyMnnh6i+bXikjNcEh58OdeCTjVAYsBJpU3Pc/9/OjzxkFSa+Sr8S7cgpiB1SsTMM9B5+08TjjsrpGgxmjcu4zbEMMig45QLkBV7ztJ2BnFTh1i3zAbGZI8BXufLZTZz2X0JYftK+nrFFAXM/8isXKoVfs/yqn3eqVcwH4EpioiZIDDWQ1QCPQZ9UaksZ56CeEO7EK/5JtkcgMKW5UxiSTanaJdbRAgKrQnZ5u2kdRUAioikY1ZW3Uy4bp5vmkSMloz2QZz7OIh/5P0M+AWQ==",
-                        "jdbc": {
-                            "jdbcUrl": "{enc}SBR6DYLF1U+og8YLu4ICWvCrvue3zzbyVVKtfxHFlBnTMUDDgm/SA4jEYFdInLxGN6Jc39NOffOn6o67bKP1InBeetWlKomJ4G2xXacm89pW/qT+do0OjuA8Gxevs7PvLf7wChYSK65+53+uN9DGlEO8aeJ1AHi3/h7gMO0twcJUav4n5lgarQao8k6E4l2X43kT+PRCalCl0+MHVmNVfNsn1JWhabdinz3sbHART7GlwVMPfj/YTF8oBxu78eT2iNBwAPlW5u2LXMpMzxZnG+NMZcbkF8+oa/Wkhq5bCfQfuqYRy5cH6u79GF2JNRur7ED5vipwEAfRvuPbCEBWeA==",
-                            "driverClassName": "com.ibm.db2.jcc.DB2Driver",
-                            "schema": "{enc}X35By9rawZjNT3Io4feCJZxvz/9WXofJnxtTO8BfSS9R83Gw0xk7kT/Hg3X8/s2t3s/RRq7MhtwH1FdITIX06kEuv3NoEFbiHBn2ZXroDAJPoCvMGIq80CVoI2zDS4wkFxEPouvHY9V0qK0TbdcNsHAqAwIHbmmDQ1J+R+e/YKX47MnZSOC3ZZ5cYGHznVuJQ8PXPyewgfdP6Sbh0mhuinCUxISOKHNw8Jt+x02kEr6kOZpyl9DeOny7dbro/dFwkKDaU7FMcan3DCN7mX9CmwECZ7Iu/RwjlazyZTcHIpdiavpjSqhqOIlBKxCtHyMu7l5m6OFsfim9fKYhH27vXw=="
-                        }
-                    },
+                 
                     "label": "WA_FULL_LOGS",
                     "identifier": "WA_FULL_LOGS",
                     "table": {
