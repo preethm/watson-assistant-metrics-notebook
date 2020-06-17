@@ -6,7 +6,7 @@ KPIs include coverage, containment, escalation, and other key metrics vital to r
 
 
 ## Assets
-1. **Playbook for Watson Assistant Metrics Notebook** - Contains step-by-step instructions in order to run the notebook and create a Dashboard.
+1. **Playbook for Watson Assistant Metrics Notebook.pdf** - Contains step-by-step instructions in order to run the notebook and create a Dashboard.
 2. **Watson Assistant Metrics Notebook.ipynb** - Jupyter Notebook that will be installed and run in Watson Studio.
 3. **db2-tables-sql.txt** - Text file with the SQL Query needed to establish tables in a Db2 database. The shaped log data will be stored here. 
 
