@@ -1,5 +1,5 @@
 # Summary
-This Jupyter notebook was developed for analyzing the conversation logs for Watson Assistant (and Voice Interaction) solutions. The `Playbook for Watson Assistant Metrics Notebook` will demonstrate the steps required to complete the following:
+This Jupyter notebook was developed for analyzing the conversation logs for Watson Assistant (and Voice Interaction) solutions. The Playbook will demonstrate the steps required to complete the following:
 <img src="https://github.com/preethm/watson-assistant-metrics-notebook/blob/master/Data%20Flow%20Diagram.png" height="75%" width="75%" >
 
 KPIs include coverage, containment, escalation, and other key metrics vital to reporting on the performance of a Watson Assistant solution.
