@@ -10,6 +10,7 @@ intent_confidence 	Decimal,
 entities 		Varchar(3072),
 coverage 		Varchar(128),
 response_type 		Varchar(128),
+input_bigrams 		Varchar(128),
 dialog_turn_counter 	Decimal,
 user_id 		Varchar(128),
 branch_exited_reason 	Varchar(256),
@@ -23,6 +24,7 @@ vgw_session_id		Varchar(128),
 sms_number		Varchar(128),
 call_transfer		Varchar(128)
 );	
+
 
 CREATE TABLE WATSON.WA_LAST_RUN_LOG(
 conversation_id 	Varchar(128),
