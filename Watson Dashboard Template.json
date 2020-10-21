@@ -1,0 +1,1055 @@
+{
+    "name": "New dashboard",
+    "layout": {
+        "id": "page0",
+        "items": [
+            {
+                "id": "page1",
+                "items": [
+                    {
+                        "id": "page2",
+                        "css": "templateBox aspectRatio_default",
+                        "items": [
+                            {
+                                "id": "model0000017259181f3b_00000000",
+                                "style": {
+                                    "top": "0%",
+                                    "left": "0%",
+                                    "right": "75%",
+                                    "bottom": "75%"
+                                },
+                                "type": "templateDropZone",
+                                "templateName": "dz1",
+                                "relatedLayouts": "|model0000017258da3fbc_00000002|"
+                            },
+                            {
+                                "id": "model0000017259181f3b_00000001",
+                                "css": "noBorderLeft",
+                                "style": {
+                                    "top": "0%",
+                                    "left": "25%",
+                                    "right": "50%",
+                                    "bottom": "75%"
+                                },
+                                "type": "templateDropZone",
+                                "templateName": "dz3",
+                                "relatedLayouts": "|model0000017259407010_00000003|"
+                            },
+                            {
+                                "id": "model0000017259181f3b_00000002",
+                                "css": "noBorderLeft",
+                                "style": {
+                                    "top": "0%",
+                                    "left": "50%",
+                                    "right": "25%",
+                                    "bottom": "75%"
+                                },
+                                "type": "templateDropZone",
+                                "templateName": "dz4",
+                                "relatedLayouts": "|model0000017259293c90_00000001|"
+                            },
+                            {
+                                "id": "model0000017259181f3c_00000000",
+                                "css": "noBorderLeft",
+                                "style": {
+                                    "top": "0%",
+                                    "left": "75%",
+                                    "right": "00%",
+                                    "bottom": "75%"
+                                },
+                                "type": "templateDropZone",
+                                "templateName": "dz5",
+                                "relatedLayouts": "|model0000017259188226_00000002|"
+                            },
+                            {
+                                "id": "model0000017259181f3c_00000001",
+                                "css": "noBorderTop",
+                                "style": {
+                                    "top": "25%",
+                                    "left": "0%",
+                                    "right": "0%",
+                                    "bottom": "0%"
+                                },
+                                "type": "templateDropZone",
+                                "templateName": "dz2",
+                                "relatedLayouts": ""
+                            },
+                            {
+                                "id": "model0000017259232989_00000002",
+                                "style": {
+                                    "top": "62.34132581100141%",
+                                    "left": "37.286821705426355%",
+                                    "height": "37.517630465444284%",
+                                    "width": "62.63565891472868%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": ""
+                            },
+                            {
+                                "id": "model0000017259308c46_00000000",
+                                "style": {
+                                    "left": "0.0992063492063492%",
+                                    "top": "25.09025270758123%",
+                                    "height": "74.72924187725631%",
+                                    "width": "37.301587301587304%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": ""
+                            },
+                            {
+                                "id": "model0000017258dbae82_00000003",
+                                "style": {
+                                    "top": "25.105782792665725%",
+                                    "left": "37.51937984496124%",
+                                    "height": "37.23554301833568%",
+                                    "width": "62.325581395348834%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": ""
+                            },
+                            {
+                                "id": "model0000017259188226_00000002",
+                                "style": {
+                                    "top": "0.14104372355430184%",
+                                    "left": "74.96124031007751%",
+                                    "height": "24.682651622002822%",
+                                    "width": "24.88372093023256%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": "model0000017259181f3c_00000000"
+                            },
+                            {
+                                "id": "model0000017259293c90_00000001",
+                                "style": {
+                                    "top": "0.18050541516245489%",
+                                    "left": "50%",
+                                    "height": "24.729241877256317%",
+                                    "width": "24.900793650793652%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": "model0000017259181f3b_00000002"
+                            },
+                            {
+                                "id": "model0000017259407010_00000003",
+                                "style": {
+                                    "top": "0.18050541516245489%",
+                                    "left": "25%",
+                                    "height": "24.729241877256317%",
+                                    "width": "24.900793650793652%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": "model0000017259181f3b_00000001",
+                                "clones": 1
+                            },
+                            {
+                                "id": "model0000017258da3fbc_00000002",
+                                "style": {
+                                    "top": "0.18050541516245489%",
+                                    "left": "0.0992063492063492%",
+                                    "height": "24.729241877256317%",
+                                    "width": "24.8015873015873%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": "model0000017259181f3b_00000000"
+                            },
+                            {
+                                "id": "model00000172762bef64_00000000",
+                                "from": "model000001727625d6c4_00000000",
+                                "style": {
+                                    "width": "74.90079365079364%",
+                                    "height": "6.67870036101083%",
+                                    "left": "0%",
+                                    "top": "99.81949458483754%"
+                                },
+                                "type": "widget",
+                                "relatedLayouts": ""
+                            }
+                        ],
+                        "type": "scalingAbsolute"
+                    }
+                ],
+                "type": "container",
+                "title": {
+                    "translationTable": {
+                        "Default": "[Client] Chatbot"
+                    }
+                },
+                "templateName": "Template4",
+                "clones": 1
+            }
+        ],
+        "style": {
+            "height": "100%"
+        },
+        "type": "tab"
+    },
+    "theme": "darkTheme",
+    "version": 1009,
+    "eventGroups": [
+        {
+            "id": "page1:1",
+            "widgetIds": [
+                "model0000017258da3fbc_00000002",
+                "model0000017258dbae82_00000003",
+                "model0000017259188226_00000002",
+                "model0000017259293c90_00000001",
+                "model0000017259308c46_00000000",
+                "model0000017259407010_00000003",
+                "model0000017259232989_00000002"
+            ]
+        }
+    ],
+    "properties": {
+        "defaultLocale": "Default"
+    },
+    "pageContext": [],
+    "dataSources": {
+        "version": "1.0",
+        "sources": [
+            {
+                "id": "model0000017258d9dfa0_00000002",
+                "assetId": "assetId0000017258d9dfa0_00000000",
+                "clientId": "",
+                "module": {
+                    "xsd": "https://ibm.com/daas/module/1.0/module.xsd",
+                 
+                    "label": "WA_FULL_LOGS",
+                    "identifier": "WA_FULL_LOGS",
+                    "table": {
+                        "column": [
+                            {
+                                "datatype": "varchar(128)",
+                                "nullable": true,
+                                "name": "CONVERSATION_ID",
+                                "label": "CONVERSATION_ID",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "integer",
+                                "nullable": true,
+                                "name": "MONTH",
+                                "label": "MONTH",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cMonth"
+                            },
+                            {
+                                "datatype": "integer",
+                                "nullable": true,
+                                "name": "DAY",
+                                "label": "DAY",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cDay"
+                            },
+                            {
+                                "datatype": "integer",
+                                "nullable": true,
+                                "name": "YEAR",
+                                "label": "YEAR",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cYear"
+                            },
+                            {
+                                "datatype": "varchar(3072)",
+                                "nullable": true,
+                                "name": "INPUT_TEXT",
+                                "label": "INPUT_TEXT",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(3072)",
+                                "nullable": true,
+                                "name": "OUTPUT_TEXT",
+                                "label": "OUTPUT_TEXT",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(1024)",
+                                "nullable": true,
+                                "name": "INTENT",
+                                "label": "INTENT",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "decimal(5)",
+                                "nullable": true,
+                                "name": "INTENT_CONFIDENCE",
+                                "label": "INTENT_CONFIDENCE",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(3072)",
+                                "nullable": true,
+                                "name": "ENTITIES",
+                                "label": "ENTITIES",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(128)",
+                                "nullable": true,
+                                "name": "COVERAGE",
+                                "label": "COVERAGE",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "decimal(5)",
+                                "nullable": true,
+                                "name": "DIALOG_TURN_COUNTER",
+                                "label": "DIALOG_TURN_COUNTER",
+                                "usage": "fact",
+                                "regularAggregate": "total",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(128)",
+                                "nullable": true,
+                                "name": "USER_ID",
+                                "label": "USER_ID",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(256)",
+                                "nullable": true,
+                                "name": "BRANCH_EXITED_REASON",
+                                "label": "BRANCH_EXITED_REASON",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(1024)",
+                                "nullable": true,
+                                "name": "NODES_VISITED",
+                                "label": "NODES_VISITED",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(1024)",
+                                "nullable": true,
+                                "name": "PREV_NODES_VISITED",
+                                "label": "PREV_NODES_VISITED",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "timestamp",
+                                "nullable": true,
+                                "name": "REQUEST_TIMESTAMP",
+                                "label": "REQUEST_TIMESTAMP",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "timestamp",
+                                "nullable": true,
+                                "name": "RESPONSE_TIMESTAMP",
+                                "label": "RESPONSE_TIMESTAMP",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(1024)",
+                                "nullable": true,
+                                "name": "LANGUAGE",
+                                "label": "LANGUAGE",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(128)",
+                                "nullable": true,
+                                "name": "CALLER_ID",
+                                "label": "CALLER_ID",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(128)",
+                                "nullable": true,
+                                "name": "VGW_SESSION_ID",
+                                "label": "VGW_SESSION_ID",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(128)",
+                                "nullable": true,
+                                "name": "SMS_NUMBER",
+                                "label": "SMS_NUMBER",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            },
+                            {
+                                "datatype": "varchar(128)",
+                                "nullable": true,
+                                "name": "CALL_TRANSFER",
+                                "label": "CALL_TRANSFER",
+                                "usage": "attribute",
+                                "regularAggregate": "countDistinct",
+                                "taxonomyFamily": "cNone"
+                            }
+                        ],
+                        "name": "WA_FULL_LOGS",
+                        "label": "WA_FULL_LOGS",
+                        "description": ""
+                    }
+                },
+                "name": "WA_FULL_LOGS",
+                "shaping": {
+                    "shapingId": "shaping00000172760d4893_00000000",
+                    "embeddedModuleUpToDate": false,
+                    "moserJSON": {
+                        "version": "5.0.1",
+                        "container": "C",
+                        "useSpec": [
+                            {
+                                "identifier": "ES",
+                                "type": "url",
+                                "storeID": "baseModule",
+                                "imports": "*"
+                            }
+                        ],
+                        "expressionLocale": "en-us",
+                        "calculation": [
+                            {
+                                "expression": "(total (If (WA_FULL_LOGS.COVERAGE = 'covered') then( 1)\nelse (0))\n/\ntotal (If (WA_FULL_LOGS.COVERAGE = 'covered' or WA_FULL_LOGS.COVERAGE = 'uncovered') then (1)\nelse (0)))  ",
+                                "usage": "fact",
+                                "datatype": "DOUBLE",
+                                "nullable": true,
+                                "regularAggregate": "calculated",
+                                "datatypeCategory": "number",
+                                "highlevelDatatype": "decimal",
+                                "facetDefinition": {
+                                    "enabled": "automatic"
+                                },
+                                "identifier": "COVERAGE_1",
+                                "label": "COVERAGE Calc",
+                                "property": [
+                                    {
+                                        "name": "ui_expr",
+                                        "value": "{\"func\":\"customCalculation\",\"version\":\"5.0.1\"}"
+                                    }
+                                ],
+                                "propertyOverride": [
+                                    "NEW"
+                                ]
+                            },
+                            {
+                                "expression": "(COVERAGE_1)",
+                                "usage": "fact",
+                                "format": "{\"formatGroup\":{\"percentFormat\":{}}}",
+                                "datatype": "DOUBLE",
+                                "nullable": true,
+                                "regularAggregate": "calculated",
+                                "datatypeCategory": "number",
+                                "highlevelDatatype": "decimal",
+                                "facetDefinition": {
+                                    "enabled": "automatic"
+                                },
+                                "identifier": "COVERAGE_100",
+                                "label": "COVERAGE Calc %",
+                                "property": [
+                                    {
+                                        "name": "ui_expr",
+                                        "value": "{\"func\":\"customCalculation\",\"version\":\"5.0.1\"}"
+                                    }
+                                ],
+                                "propertyOverride": [
+                                    "NEW"
+                                ]
+                            }
+                        ],
+                        "metadataTreeView": [
+                            {
+                                "folderItem": [
+                                    {
+                                        "ref": "COVERAGE_1"
+                                    },
+                                    {
+                                        "ref": "COVERAGE_100"
+                                    }
+                                ]
+                            }
+                        ],
+                        "dataRetrievalMode": "liveConnection",
+                        "identifier": "newModel",
+                        "label": "newModel"
+                    }
+                }
+            }
+        ]
+    },
+    "drillThrough": [],
+    "widgets": {
+        "model0000017258da3fbc_00000002": {
+            "id": "model0000017258da3fbc_00000002",
+            "data": {
+                "dataViews": [
+                    {
+                        "modelRef": "model0000017258d9dfa0_00000002",
+                        "dataItems": [
+                            {
+                                "id": "model0000017258da3fbb_00000000",
+                                "itemId": "WA_FULL_LOGS.CONVERSATION_ID",
+                                "itemLabel": "CONVERSATION_ID"
+                            }
+                        ],
+                        "id": "model0000017258da3fbc_00000000"
+                    }
+                ]
+            },
+            "visTypeLocked": true,
+            "slotmapping": {
+                "slots": [
+                    {
+                        "name": "values",
+                        "dataItems": [
+                            "model0000017258da3fbb_00000000"
+                        ],
+                        "dataItemSettings": [],
+                        "caption": "Value",
+                        "id": "values",
+                        "layerId": "data"
+                    }
+                ]
+            },
+            "type": "live",
+            "name": {
+                "translationTable": {
+                    "Default": "Total Conversations"
+                }
+            },
+            "visId": "summary",
+            "showTitle": true,
+            "properties": [
+                {
+                    "id": "colorPalette",
+                    "value": "colorPalette2"
+                },
+                {
+                    "id": "valueColor",
+                    "value": 7
+                },
+                {
+                    "id": "showItemLabel",
+                    "value": false
+                }
+            ]
+        },
+        "model0000017258dbae82_00000003": {
+            "id": "model0000017258dbae82_00000003",
+            "data": {
+                "dataViews": [
+                    {
+                        "modelRef": "model0000017258d9dfa0_00000002",
+                        "dataItems": [
+                            {
+                                "id": "model0000017258dbae82_00000000",
+                                "itemId": "WA_FULL_LOGS.CONVERSATION_ID",
+                                "itemLabel": "CONVERSATION_ID"
+                            },
+                            {
+                                "id": "model0000017258dbe23a_00000001",
+                                "itemId": "WA_FULL_LOGS.MONTH_",
+                                "itemLabel": "MONTH"
+                            },
+                            {
+                                "id": "model0000017258dbe9cc_00000000",
+                                "itemId": "WA_FULL_LOGS.DAY_",
+                                "itemLabel": "DAY"
+                            }
+                        ],
+                        "id": "model0000017258dbae82_00000001"
+                    }
+                ]
+            },
+            "visTypeLocked": true,
+            "slotmapping": {
+                "slots": [
+                    {
+                        "name": "values",
+                        "dataItems": [
+                            "model0000017258dbae82_00000000"
+                        ],
+                        "caption": "Length",
+                        "id": "values"
+                    },
+                    {
+                        "name": "categories",
+                        "dataItems": [
+                            "model0000017258dbe23a_00000001",
+                            "model0000017258dbe9cc_00000000"
+                        ],
+                        "dataItemSettings": [],
+                        "caption": "Bars",
+                        "id": "categories"
+                    }
+                ]
+            },
+            "type": "live",
+            "name": {
+                "translationTable": {
+                    "Default": "Daily Conversations"
+                }
+            },
+            "visId": "com.ibm.vis.rave2bundlecolumn",
+            "showTitle": true,
+            "properties": [
+                {
+                    "id": "itemAxis.labels.visible",
+                    "value": true
+                },
+                {
+                    "id": "gridLines.visible",
+                    "value": false
+                },
+                {
+                    "id": "titles.visible",
+                    "value": false
+                },
+                {
+                    "id": "itemAxis.labels.layoutMode",
+                    "value": "rotate45"
+                },
+                {
+                    "id": "valueLabels.visible",
+                    "value": true
+                },
+                {
+                    "id": "defaultPaletteIndex",
+                    "value": 15
+                },
+                {
+                    "id": "colorPalette",
+                    "value": "colorPalette7"
+                }
+            ]
+        },
+        "model0000017259188226_00000002": {
+            "id": "model0000017259188226_00000002",
+            "data": {
+                "dataViews": [
+                    {
+                        "modelRef": "model0000017258d9dfa0_00000002",
+                        "dataItems": [
+                            {
+                                "id": "model0000017259188225_00000000",
+                                "itemId": "WA_FULL_LOGS.LANGUAGE_",
+                                "itemLabel": "LANGUAGE"
+                            },
+                            {
+                                "id": "model000001725918c14a_00000001",
+                                "itemId": "WA_FULL_LOGS.LANGUAGE_",
+                                "itemLabel": "LANGUAGE"
+                            }
+                        ],
+                        "id": "model0000017259188226_00000000"
+                    }
+                ]
+            },
+            "visTypeLocked": true,
+            "slotmapping": {
+                "slots": [
+                    {
+                        "name": "categories",
+                        "dataItems": [
+                            "model0000017259188225_00000000"
+                        ],
+                        "dataItemSettings": [],
+                        "caption": "Segments",
+                        "id": "categories",
+                        "layerId": "data"
+                    },
+                    {
+                        "name": "values",
+                        "dataItems": [
+                            "model000001725918c14a_00000001"
+                        ],
+                        "caption": "Size",
+                        "id": "values"
+                    }
+                ]
+            },
+            "type": "live",
+            "name": {
+                "translationTable": {
+                    "Default": "Language"
+                }
+            },
+            "localFilters": [
+                {
+                    "id": "WA_FULL_LOGS.LANGUAGE_",
+                    "columnId": "WA_FULL_LOGS.LANGUAGE_",
+                    "values": [
+                        {
+                            "u": "WA_FULL_LOGS.LANGUAGE_->[]",
+                            "d": ""
+                        }
+                    ],
+                    "excludedValues": [],
+                    "operator": "notin",
+                    "type": null
+                }
+            ],
+            "visId": "com.ibm.vis.rave2bundlepie",
+            "showTitle": true,
+            "properties": [
+                {
+                    "id": "donutRadius",
+                    "value": 0.7000000000000001
+                },
+                {
+                    "id": "label.percentage",
+                    "value": true
+                },
+                {
+                    "id": "contrast.label.color",
+                    "value": true
+                },
+                {
+                    "id": "widget.legend.position",
+                    "value": "right"
+                }
+            ]
+        },
+        "model0000017259232989_00000002": {
+            "id": "model0000017259232989_00000002",
+            "data": {
+                "dataViews": [
+                    {
+                        "modelRef": "model0000017258d9dfa0_00000002",
+                        "dataItems": [
+                            {
+                                "id": "model0000017259232988_00000000",
+                                "itemId": "WA_FULL_LOGS.INPUT_TEXT",
+                                "itemLabel": "INPUT_TEXT"
+                            },
+                            {
+                                "id": "model000001725923c9bc_00000000",
+                                "itemId": "WA_FULL_LOGS.INPUT_TEXT",
+                                "itemLabel": "INPUT_TEXT"
+                            }
+                        ],
+                        "id": "model0000017259232989_00000000"
+                    }
+                ]
+            },
+            "visTypeLocked": true,
+            "slotmapping": {
+                "slots": [
+                    {
+                        "name": "categories",
+                        "dataItems": [
+                            "model0000017259232988_00000000"
+                        ],
+                        "dataItemSettings": [],
+                        "caption": "Words",
+                        "id": "categories",
+                        "layerId": "data"
+                    },
+                    {
+                        "name": "size",
+                        "dataItems": [
+                            "model000001725923c9bc_00000000"
+                        ],
+                        "caption": "Size",
+                        "id": "size"
+                    }
+                ]
+            },
+            "type": "live",
+            "name": {
+                "translationTable": {
+                    "Default": "Frequent Unhandled Phrases"
+                }
+            },
+            "localFilters": [
+                {
+                    "id": "WA_FULL_LOGS.COVERAGE",
+                    "columnId": "WA_FULL_LOGS.COVERAGE",
+                    "values": [
+                        {
+                            "d": "uncovered",
+                            "u": "WA_FULL_LOGS.COVERAGE->[uncovered]"
+                        }
+                    ],
+                    "excludedValues": [],
+                    "operator": "in",
+                    "type": null
+                }
+            ],
+            "visId": "com.ibm.vis.rave2bundlewordcloud",
+            "showTitle": true,
+            "properties": [
+                {
+                    "id": "widget.legend.display",
+                    "value": false
+                }
+            ]
+        },
+        "model0000017259293c90_00000001": {
+            "id": "model0000017259293c90_00000001",
+            "data": {
+                "dataViews": [
+                    {
+                        "modelRef": "model0000017258d9dfa0_00000002",
+                        "dataItems": [
+                            {
+                                "id": "model0000017259293c8f_00000000",
+                                "itemId": "WA_FULL_LOGS.USER_ID",
+                                "itemLabel": "USER_ID",
+                                "aggregate": "countdistinct"
+                            }
+                        ],
+                        "id": "model0000017259293c8f_00000001"
+                    }
+                ]
+            },
+            "visTypeLocked": true,
+            "slotmapping": {
+                "slots": [
+                    {
+                        "name": "values",
+                        "dataItems": [
+                            "model0000017259293c8f_00000000"
+                        ],
+                        "dataItemSettings": [],
+                        "caption": "Value",
+                        "id": "values",
+                        "layerId": "data"
+                    }
+                ]
+            },
+            "type": "live",
+            "name": {
+                "translationTable": {
+                    "Default": "Active Users"
+                }
+            },
+            "localFilters": [],
+            "visId": "summary",
+            "showTitle": true,
+            "properties": [
+                {
+                    "id": "colorPalette",
+                    "value": "colorPalette2"
+                },
+                {
+                    "id": "valueColor",
+                    "value": 7
+                },
+                {
+                    "id": "showItemLabel",
+                    "value": false
+                }
+            ]
+        },
+        "model0000017259308c46_00000000": {
+            "id": "model0000017259308c46_00000000",
+            "data": {
+                "dataViews": [
+                    {
+                        "modelRef": "model0000017258d9dfa0_00000002",
+                        "dataItems": [
+                            {
+                                "id": "model0000017259308c45_00000000",
+                                "itemId": "WA_FULL_LOGS.INTENT",
+                                "itemLabel": "INTENT"
+                            },
+                            {
+                                "id": "model0000017259310a6b_00000001",
+                                "itemId": "WA_FULL_LOGS.INTENT",
+                                "itemLabel": "INTENT",
+                                "selection": [
+                                    {
+                                        "operation": "order",
+                                        "sort": {
+                                            "type": "desc",
+                                            "priority": 0,
+                                            "by": "caption"
+                                        }
+                                    },
+                                    {
+                                        "operation": "keep",
+                                        "topBottom": {
+                                            "type": "topcount",
+                                            "value": 20
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "id": "model0000017259308c45_00000001"
+                    }
+                ]
+            },
+            "visTypeLocked": true,
+            "slotmapping": {
+                "slots": [
+                    {
+                        "name": "categories",
+                        "dataItems": [
+                            "model0000017259308c45_00000000"
+                        ],
+                        "dataItemSettings": [],
+                        "caption": "Bars",
+                        "id": "categories",
+                        "layerId": "data"
+                    },
+                    {
+                        "name": "values",
+                        "dataItems": [
+                            "model0000017259310a6b_00000001"
+                        ],
+                        "caption": "Length",
+                        "id": "values",
+                        "layerId": "data"
+                    }
+                ]
+            },
+            "type": "live",
+            "name": {
+                "translationTable": {
+                    "Default": "Frequent Topics"
+                }
+            },
+            "localFilters": [
+                {
+                    "id": "WA_FULL_LOGS.INTENT",
+                    "columnId": "WA_FULL_LOGS.INTENT",
+                    "values": [
+                        {
+                            "u": "WA_FULL_LOGS.INTENT->[]",
+                            "d": ""
+                        }
+                    ],
+                    "excludedValues": [],
+                    "operator": "notin",
+                    "type": null
+                }
+            ],
+            "visId": "com.ibm.vis.rave2bundlebar",
+            "showTitle": true,
+            "properties": [
+                {
+                    "id": "itemAxis.labels.visible",
+                    "value": true
+                },
+                {
+                    "id": "valueAxis.labels.visible",
+                    "value": true
+                },
+                {
+                    "id": "gridLines.visible",
+                    "value": false
+                },
+                {
+                    "id": "titles.visible",
+                    "value": false
+                },
+                {
+                    "id": "valueLabels.visible",
+                    "value": true
+                },
+                {
+                    "id": "valueLabels.format",
+                    "value": "PercentOfColor"
+                }
+            ]
+        },
+        "model0000017259407010_00000003": {
+            "id": "model0000017259407010_00000003",
+            "data": {
+                "dataViews": [
+                    {
+                        "modelRef": "model0000017258d9dfa0_00000002",
+                        "dataItems": [
+                            {
+                                "id": "model00000172760ce800_00000000",
+                                "itemId": "COVERAGE_100",
+                                "itemLabel": "COVERAGE +  % 100"
+                            }
+                        ],
+                        "id": "model0000017259407010_00000001"
+                    }
+                ]
+            },
+            "visTypeLocked": true,
+            "slotmapping": {
+                "slots": [
+                    {
+                        "name": "values",
+                        "dataItems": [
+                            "model00000172760ce800_00000000"
+                        ],
+                        "dataItemSettings": [],
+                        "caption": "Value",
+                        "id": "values"
+                    }
+                ]
+            },
+            "type": "live",
+            "name": {
+                "translationTable": {
+                    "Default": "Coverage"
+                }
+            },
+            "localFilters": [],
+            "visId": "summary",
+            "showTitle": true,
+            "properties": [
+                {
+                    "id": "colorPalette",
+                    "value": "colorPalette2"
+                },
+                {
+                    "id": "valueColor",
+                    "value": 7
+                },
+                {
+                    "id": "showItemLabel",
+                    "value": false
+                }
+            ]
+        },
+        "model00000172762bef64_00000000": {
+            "id": "model00000172762bef64_00000000",
+            "type": "text",
+            "content": {
+                "translationTable": {
+                    "Default": "<div class=\"staticContent\" dir=\"auto\"><div class=\"summernote\" style=\"display: none;\"></div><div class=\"note-editor\"><div class=\"note-dropzone\">  <div class=\"note-dropzone-message\"></div></div><div class=\"note-editing-area\"><div class=\"note-handle\"><div class=\"note-control-selection\"><div class=\"note-control-selection-bg\"></div><div class=\"note-control-holder note-control-nw\"></div><div class=\"note-control-holder note-control-ne\"></div><div class=\"note-control-holder note-control-sw\"></div><div class=\"note-control-sizing note-control-se\"></div><div class=\"note-control-selection-info\"></div></div></div><div class=\"note-editable\" contenteditable=\"false\"><p class=\"responsiveColor responsiveFontSize responsiveFontFamily\" style=\"text-align: left;\"><font color=\"#008d9a\"><span class=\"rt_fontSize16 color4\">Updated hourly with new user data</span></font></p></div></div></div></div>"
+                }
+            },
+            "isResponsive": false,
+            "visTypeLocked": true,
+            "name": ""
+        }
+    }
+}
