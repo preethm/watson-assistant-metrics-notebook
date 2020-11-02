@@ -1,0 +1,5 @@
+(total (If (WA_FULL_LOGS.COVERAGE = 'covered') then( 1)
+else (0))
+/
+total (If (WA_FULL_LOGS.COVERAGE = 'covered' or WA_FULL_LOGS.COVERAGE = 'uncovered') then (1)
+else (0)))  
