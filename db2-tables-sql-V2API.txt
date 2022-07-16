@@ -1,0 +1,27 @@
+Create Table WATSON_WEB_ACTIONS.WA_FULL_LOGS(	
+conversation_id 	Varchar(128),
+month			Integer,
+day			Integer,
+year			Integer,
+input_text 		Varchar(30000),
+output_text 		Varchar(30000),
+action_title 			Varchar(1024),
+intent 			Varchar(1024),
+intent_confidence 	Decimal,
+entities 		Varchar(30000),
+input_bigrams 		Varchar(30000),
+dialog_turn_number 	Integer,
+conversation_length 	Integer,
+user_id 		Varchar(128),
+request_timestamp 	Timestamp,
+response_timestamp 	Timestamp,
+language_selection Varchar(128)
+);	
+
+
+CREATE TABLE WATSON_WEB_ACTIONS.WA_LAST_RUN_LOG(
+conversation_id 	Varchar(128),
+request_timestamp 	Timestamp,
+response_timestamp 	Timestamp,
+lastrun_timestamp   	Timestamp
+);
